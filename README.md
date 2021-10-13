@@ -20,6 +20,6 @@ MsgBox(64, "Info", "Distance to IO94GC is " & calcdistance("JN63EV") & " km !")
 
 Example 2
 ```
-Consolewrite("Distance is "&calcdistance("JN63EV") &" km."&@crlf)
+Consolewrite("Distance is "& calcdistance("JN63EV") &" km."& @crlf)
 ```
 

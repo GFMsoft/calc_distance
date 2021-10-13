@@ -13,7 +13,13 @@ It uses the haversine formula. - https://en.wikipedia.org/wiki/Haversine_formula
 
 
 
-Example
+Example 1
 ```
 MsgBox(64, "Info", "Distance to IO94GC is " & calcdistance("JN63EV") & " km !")
 ```
+
+Example 2
+```
+Consolewrite("Distance is "&calcdistance("JN63EV") &" km."&@crlf)
+```
+

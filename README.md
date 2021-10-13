@@ -2,7 +2,8 @@
 27.09.2021 - Ferdinand Marx - GFMSoft - www.GFMSOFT.de
 This script converts MAIDENHEADLOCATOR to LATITUDE and LONGTITUDE and calculates the distance.
 Result is rounded
-It uses the haversine formula. - https://en.wikipedia.org/wiki/Haversine_formula
+It uses the haversine formula.
+https://en.wikipedia.org/wiki/Haversine_formula
 
 .:Information:.
 
